@@ -15,11 +15,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AhmedXMujtaba&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</br>
--Martin Fowler
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=AhmedXMujtaba&icon=3&color=5)](https://visitcount.itsvg.in)
-
+ Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</br>
+ -Martin Fowler
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
