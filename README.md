@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Im AHMEDMUJTABA nice to meet() you.<br>Looking for poeple who like to work on projects and carve learning<br>catch me on instagram for any projects<br><br>
+<br>Ahmed Mujtaba. Learning to code. To become the best.<br><br>
 
 
 ## 🌐 Socials:
