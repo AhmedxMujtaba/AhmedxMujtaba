@@ -17,7 +17,7 @@
 * **Role:** Founder & Lead Architect at Deltavare, engineering production-grade full-stack ecosystems.
 * **Education:** Software Engineering (7th Semester) at COMSATS University Islamabad.
 * **Currently Engineering:** A public health system for vaccination tracking (AI-integrated FYP) and building the core infrastructure for Deltavare.
-* **Specialties:** Full-Stack Enterprise Development (.NET/Angular), 
+* **Specialties:** Full-Stack Enterprise Development (.NET/Angular)
 * **Interests:** IoT (ESP32 microcontrollers), Web3/Solana, and gaming.
 * **How to reach me:** You can message me on [LinkedIn](https://linkedin.com/in/ahmed-x-mujtaba) or email me at ahmedmujtaba.ult@gmail.com.
 
@@ -46,12 +46,7 @@
 ### Engineering Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedXMujtaba&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedXMujtaba&theme=radical&hide_border=false" alt="Ahmed's GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedXMujtaba&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/api" alt="Deltavare Terminal Stats" />
 </div>
 
 ---
