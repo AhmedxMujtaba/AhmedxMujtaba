@@ -43,10 +43,23 @@
 
 ---
 
-### Engineering Telemetry
+### 📊 Engineering Telemetry
 
 <div align="center">
-  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/api?v=2" alt="Deltavare Terminal Stats" />
+  <h4> System Overview</h4>
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/api?v=6" alt="System Stats" />
+  <br><br>
+  
+  <h4> Tech Stack Distribution</h4>
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/api/languages?v=6" alt="Tech Stack" />
+  <br><br>
+  
+  <h4> Weekly Activity Log</h4>
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/api/contributions?v=6" alt="Contribution Volatility" />
+  <br><br>
+  
+  <h4> Real-time Traffic Analysis</h4>
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/api/traffic?v=6" alt="Traffic Analysis" />
 </div>
 
 ---
