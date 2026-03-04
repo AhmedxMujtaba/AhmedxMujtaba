@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 Engineering Telemetry
+### Engineering Telemetry
 <div align="center">
   <h4>System Overview</h4>
   <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/telemetry?v=7" alt="System Stats" />
