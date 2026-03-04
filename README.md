@@ -46,7 +46,7 @@
 ### Engineering Telemetry
 
 <div align="center">
-  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/api" alt="Deltavare Terminal Stats" />
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/api?v=2" alt="Deltavare Terminal Stats" />
 </div>
 
 ---
