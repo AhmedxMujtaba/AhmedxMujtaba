@@ -42,19 +42,19 @@
 ### Engineering Telemetry
 <div align="center">
   <h4>System Overview</h4>
-  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/telemetry?v=7" alt="System Stats" />
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/telemetry?v=8" alt="System Stats" />
   <br><br>
 
   <h4>Tech Stack Distribution</h4>
-  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/languages?v=7" alt="Tech Stack" />
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/languages?v=8" alt="Tech Stack" />
   <br><br>
 
   <h4>Weekly Activity Log</h4>
-  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/contributions?v=7" alt="Contribution Volatility" />
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/contributions?v=8" alt="Contribution Volatility" />
   <br><br>
 
   <h4>Top Repositories by Commits</h4>
-  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/repos?v=7" alt="Repo Commit Analysis" />
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/repos?v=8" alt="Repo Commit Analysis" />
   <br><br>
 
 </div>
