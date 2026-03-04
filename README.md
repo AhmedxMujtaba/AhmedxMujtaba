@@ -1,10 +1,8 @@
 <h1 align="center">I'm Ahmed Mujtaba</h1>
 <h3 align="center">Software Engineer | Founder & Lead Architect at Deltavare</h3>
-
 <p align="center">
   Bridging the gap between academic logic and enterprise performance through highly secure, scalable, and innovative software solutions.
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-x-mujtaba"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://stackoverflow.com/users/22987392"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
@@ -13,7 +11,6 @@
 ---
 
 ### About Me
-
 * **Role:** Founder & Lead Architect at Deltavare, engineering production-grade full-stack ecosystems.
 * **Education:** Software Engineering (7th Semester) at COMSATS University Islamabad.
 * **Currently Engineering:** A public health system for vaccination tracking (AI-integrated FYP) and building the core infrastructure for Deltavare.
@@ -24,7 +21,6 @@
 ---
 
 ### Core Tech Stack & Capabilities
-
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -44,22 +40,23 @@
 ---
 
 ### 📊 Engineering Telemetry
-
 <div align="center">
-  <h4> System Overview</h4>
-  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/api?v=6" alt="System Stats" />
+  <h4>System Overview</h4>
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/telemetry?v=7" alt="System Stats" />
   <br><br>
-  
-  <h4> Tech Stack Distribution</h4>
-  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/api/languages?v=6" alt="Tech Stack" />
+
+  <h4>Tech Stack Distribution</h4>
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/languages?v=7" alt="Tech Stack" />
   <br><br>
-  
-  <h4> Weekly Activity Log</h4>
-  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/api/contributions?v=6" alt="Contribution Volatility" />
+
+  <h4>Weekly Activity Log</h4>
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/contributions?v=7" alt="Contribution Volatility" />
   <br><br>
-  
-  <h4> Real-time Traffic Analysis</h4>
-  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/api/traffic?v=6" alt="Traffic Analysis" />
+
+  <h4>Top Repositories by Commits</h4>
+  <img src="https://git-statvg-gen-ahmedxmujtabas-projects.vercel.app/repos?v=7" alt="Repo Commit Analysis" />
+  <br><br>
+
 </div>
 
 ---
